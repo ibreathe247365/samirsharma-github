@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 
 &nbsp;
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
-
+<!--<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=samirsharma-github&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
